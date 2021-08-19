@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc1a7c0233fa5dd42b66ea214747152e, type: 3}
+  m_Name: Character Sheet
+  m_EditorClassIdentifier: 
+  playerName: Hero
+  level: 1
+  ExpToLevel: 200
+  experiencePoints: 27
+  attributePoints: 5
+  skillPoints: 5
+  weight: 0
+  maxHealth: 10
+  currentHealth: 9.105435
+  maxStamina: 10
+  currentStamina: 10
+  maxMana: 10
+  currentMana: 10
+  attack: 4018
+  defense: 8188
+  power: 1
+  vitality: 1
+  endurance: 1
+  agility: 1
+  intellect: 1
+  luck: 1
+  oneHanded: 0
+  twoHanded: 0
+  dualWield: 0
+  bow: 0
+  thrown: 0
+  channeling: 0
+  useScroll: 0
+  lore: 0
+  lightArmor: 0
+  mediumArmor: 0
+  heavyArmor: 0
+  bag:
+  - {fileID: 11400000, guid: a826253c3e6bf5940b856950669a906f, type: 2}
+  - {fileID: 11400000, guid: a826253c3e6bf5940b856950669a906f, type: 2}
+  - {fileID: 11400000, guid: a826253c3e6bf5940b856950669a906f, type: 2}
+  - {fileID: 11400000, guid: a826253c3e6bf5940b856950669a906f, type: 2}
+  - {fileID: 11400000, guid: a826253c3e6bf5940b856950669a906f, type: 2}
+  - {fileID: 11400000, guid: a826253c3e6bf5940b856950669a906f, type: 2}
+  - {fileID: 11400000, guid: a826253c3e6bf5940b856950669a906f, type: 2}
+  - {fileID: 11400000, guid: 4d2cea5ea5bed2f439e2f17cfa5ea366, type: 2}
+  - {fileID: 11400000, guid: 70c586612ce38c04a9ed1f2fdeef7f99, type: 2}
+  - {fileID: 11400000, guid: a826253c3e6bf5940b856950669a906f, type: 2}
+  - {fileID: 11400000, guid: a826253c3e6bf5940b856950669a906f, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  gold: 1247
+  HeadSlot: {fileID: 11400000, guid: 4d2cea5ea5bed2f439e2f17cfa5ea366, type: 2}
+  BodySlot: {fileID: 11400000, guid: 70c586612ce38c04a9ed1f2fdeef7f99, type: 2}
+  HandSlot: {fileID: 0}
+  BootSlot: {fileID: 0}
+  LegSlot: {fileID: 0}
+  ShoulderSlot: {fileID: 0}
+  RingSlot: {fileID: 0}
+  AmuletSlot: {fileID: 0}
+  WeaponSlotLeft: {fileID: 0}
+  WeaponSlotRight: {fileID: 0}
