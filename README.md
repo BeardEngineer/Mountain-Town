@@ -29,11 +29,11 @@ Other contributions include:
 # Technology
 
 Software:
--Unity
--Visual Studio
--Aseprite
+- Unity
+- Visual Studio
+- Aseprite
 
 Programming Language:
--C#
+- C#
 
 For code samples, look under ASSETS->SCRIPTS->
