@@ -25,7 +25,7 @@ Other contributions include:
 - UI art
 - 3 Songs
 - Light system
-- 
+
 # Technology
 
 Software:
